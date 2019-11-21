@@ -4,6 +4,8 @@ public class testHelloWorld {
     @Test
     public void helloWorld(){
         System.out.println("Hello World!");
-        System.out.println("demo inti success!");
+        System.out.println("demo init success!");
+        System.out.println("master change!");
+
     }
 }
